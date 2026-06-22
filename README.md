@@ -40,11 +40,6 @@ npm start
 npm run build
 ```
 
-## API
-
-- `POST https://testologia.ru/delivery/create` — создание заявки
-- `GET https://testologia.ru/delivery/info?id=...` — получение информации о доставке
-
 ## Примечания
 
 - Проект сделан в рамках интенсива.
